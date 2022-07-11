@@ -1,5 +1,0 @@
-These notebooks are my final project on a course "Introduction to Data Science" of term 1B. For this project, I worked on the database "Pump It Up" (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/).
-
-The notebook "final_project" is a main. It contains description, data cleaning and data preprocessing. Also, there is the main model were built (CatBoostClassifier). Random Forest models were built to find out what features can be dropped according to their influence on the final accuracy score (f1 score).
-
-The notebook "cat_grid" contains grid search for CatBoostClassifier. The hyperparameters were looked through not the best. Maybe there is a little excess of existing features.  New features should have been created.
