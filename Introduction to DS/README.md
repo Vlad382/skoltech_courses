@@ -8,7 +8,7 @@
 
 During the project, I worked on the database [**Pump It Up**](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/).
 
-*final_project* is a main notebook. It contains description, data cleaning and data preprocessing. Main models were built (CatBoostClassifier) there.
-`Random Forest` models were built to find out what features can be dropped according to their influence on the final accuracy score (`f1_score`).
+`final_project` is a main notebook. It contains description, data cleaning and data preprocessing. Main models were built (CatBoostClassifier) there.
+**Random Forest** models were built to find out what features can be dropped according to their influence on the final accuracy score (**f1_score**).
 
-A notebook *cat_grid* contains grid search for CatBoostClassifier.
+A notebook `cat_grid` contains grid search for CatBoostClassifier.
