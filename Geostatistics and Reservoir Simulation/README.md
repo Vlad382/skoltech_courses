@@ -16,4 +16,4 @@ Created a convenient API for SGeMS (The Stanford Geostatistical Modeling Softwar
 
 Examples of creating similar models to SPE 10 model 2 by taking random points/wells data from the original model with kriging and co-kriging.
 
-**P.S.:** No report was needed, slides only.
+**P.S.** No report was needed, slides only.
