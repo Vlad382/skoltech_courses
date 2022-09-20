@@ -1,4 +1,4 @@
-## Final Grade: A (99.00 %)
+## Final Grade: A (99.00%)
 
 ### Homework 1. Exploratory analysis, regression and cross-validation. 20/20 pts
 

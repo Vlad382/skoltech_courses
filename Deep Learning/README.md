@@ -1,4 +1,4 @@
-## Final Grade: A (88.70 %)
+## Final Grade: A (88.70%)
 
 ### Homework 1. Image Classification. 12.45/15 pts
 

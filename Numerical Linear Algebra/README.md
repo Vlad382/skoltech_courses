@@ -1,4 +1,4 @@
-## Final Grade: A (94.09 %)
+## Final Grade: A (94.09%)
 
 ### Homework 1. 92/96 pts
 

@@ -1,4 +1,4 @@
-## Final Grade: A (94.09 %)
+## Final Grade: A (94.09%)
 
 ### Homework 1. Reservoir Simulation on Practice. 20/20 pts
 
