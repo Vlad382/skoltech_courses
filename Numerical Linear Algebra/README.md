@@ -17,3 +17,9 @@ Problem 2.2.5 [1/2] (it's not about abs of eigenvalue, but about eigenvalue havi
 ### Final Project. 8/10 pts
 
 Model Compression for Uncertainty Estimation using Deep Ensembles
+
+**Occupation**
+
+Reviewed methods for tensor compression, preapred datasets and presentation.
+
+**P.S.** We did not have to submit the code. So, there is nothing but presentation left.
