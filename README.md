@@ -24,3 +24,10 @@
 | :----------- | :-----------: | -----------: | :-----------: |
 | Deep Learning |[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2021/DA060057.pdf?v=gmfzcm)		|88.70% (A)| [\*click\*](Deep%20Learning/)|
 | Geostatistics and Reservoir Simulation |[MA060085](http://files.skoltech.ru/data/edu/syllabuses/2022/MA060085.pdf?v=1hoqpj)		|92.48% (A)| [\*click\*](Geostatistics%20and%20Reservoir%20Simulation/)|
+
+### Term 5
+| Course Name| ID | Grade | Link to materials |
+| :----------- | :-----------: | -----------: | :-----------: |
+| Soft Condensed Matter |[MA030365](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030365.pdf?v=c6k45w)		|95.54% (A)| [\*click\*](Soft%Condensed%Matter/)|
+| Innovation Workshop |[MC060001](http://files.skoltech.ru/data/edu/syllabuses/2022/MC060001.pdf?v=e5b98n)		|*Was a TA*| No materials |
+| Leadership for Innovators |[MC030011](http://files.skoltech.ru/data/edu/syllabuses/2022/MC030011.pdf?v=2ct69u)		|*Pass*| No materials |
