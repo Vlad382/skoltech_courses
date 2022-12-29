@@ -28,6 +28,6 @@
 ### Term 5
 | Course Name| ID | Grade | Link to materials |
 | :----------- | :-----------: | -----------: | :-----------: |
-| Soft Condensed Matter |[MA030365](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030365.pdf?v=c6k45w)		|95.54% (A)| [\*click\*](Soft%Condensed%Matter/)|
+| Soft Condensed Matter |[MA030365](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030365.pdf?v=c6k45w)		|95.54% (A)| [\*click\*](Soft%20Condensed%20Matter/)|
 | Innovation Workshop |[MC060001](http://files.skoltech.ru/data/edu/syllabuses/2022/MC060001.pdf?v=e5b98n)		|*Was a TA*| No materials |
 | Leadership for Innovators |[MC030011](http://files.skoltech.ru/data/edu/syllabuses/2022/MC030011.pdf?v=2ct69u)		|*Pass*| No materials |
