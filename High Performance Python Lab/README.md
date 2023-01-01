@@ -2,8 +2,9 @@
 
 *Note: all tasks starting from the 5th were coded on Google Colab (to access mpi4py library). Because of this, parallelization not always shows results. However, tests on a local TA machine show a speedup.*
 
-![Schelling Model Check 5 Neighbours](https://drive.google.com/uc?id=1dp1VJpbBk4mu9rdv9ulawekhEPm62Z3S)
+![Schelling Model Check 5 Neighbours](https://github.com/Vlad382/skoltech_courses/tree/main/High%20Performance%20Python%20Lab/Homework%203/Schelling_model_5_out_of_8.gif)
 Schelling Model Check 5 Neighbours
+
 
 ### Homework 1. Bifurcation Diagram. 3/3 pts
 
