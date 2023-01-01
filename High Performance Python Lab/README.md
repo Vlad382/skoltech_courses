@@ -1,47 +1,31 @@
 ## Final Grade: A (100.%)
 
-### Homework 1. 3/3 pts
+*Note: all tasks starting from the 5th were coded on Google Colab (to access mpi4py library). Because of this, parallelization not always shows results. However, tests on a local TA machine show a speedup.*
 
-**Bifurcation Diagram**
+![Schelling Model Check 5 Neighbours](https://drive.google.com/uc?id=1dp1VJpbBk4mu9rdv9ulawekhEPm62Z3S)
+Schelling Model Check 5 Neighbours
 
+### Homework 1. Bifurcation Diagram. 3/3 pts
 
-### Homework 2. 7/7 pts
+### Homework 2. Julia Set. 7/7 pts
 
-**Julia Set**
+### Homework 3. Schelling Model. 7/7 pts
 
+### Homework 4. Spectrogram. 5/5 pts
 
-### Homework 3. 7/7 pts
+### Homework 5. Parallel Bifurcation Diagram. 4/4 pts
 
-**Schelling Model**
+### Homework 6. Parallel Spectrogram. 4/4 pts
 
-
-### Homework 4. 5/5 pts
-
-**Spectrogram**
-
-
-### Homework 5. 4/4 pts
-
-**Parallel Bifurcation Diagram**
-
-
-### Homework 6. 4/4 pts
-
-**Parallel Spectrogram**
-
-
-### Homework 7. 6/6 pts
-
-**Study an Integral**
-
+### Homework 7. Study an Integral. 6/6 pts
 
 ### Homework 8. Shifted pictures 6/6 pts
 
-### Homework 9. 8/8 pts
+### Homework 9. Rule 110. 8/8 pts
 
-### Homework 10. 19/19 pts
+### Homework 10. Cuda. 19/19 pts
 
-### Homework 11. 10/10 pts
+### Homework 11. Numba. 10/10 pts
 
 ### Final Project. 10/10 pts
 
