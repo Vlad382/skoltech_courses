@@ -5,8 +5,9 @@
 <!-- ![Schelling Model Check 5 Neighbours](https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%203/Schelling_model_5_out_of_8.gif)
 Schelling Model Check 5 Neighbours -->
 
-<img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%203/Schelling_model_5_out_of_8.gif" width="300" height="240" />
+<img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%203/Schelling_model_5_out_of_8.gif" width="600" height="480" />
 
+Schelling Model Check 5 Neighbours
 
 ### Homework 1. Bifurcation Diagram. 3/3 pts
 
