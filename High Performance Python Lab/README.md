@@ -17,7 +17,7 @@ Schelling Model. An agent checks 5 neighbours<br><br><br>
 
 Animation for c = exp(ia), a = range(0,2pi) in Julia set task<br><br><br>
 
-<img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%202.%20Julia%20Set/my_fractal.png" width="480" height="384" /><img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%202.%20Julia%20Set/specific_fractal.png" width="480" height="384" />
+<img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%202.%20Julia%20Set/my_fractal.png" width="360" height="384" /><img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%202.%20Julia%20Set/specific_fractal.png" width="480" height="256" />
 
 Some fractals created in Julia set task
 
