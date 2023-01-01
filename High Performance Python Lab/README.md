@@ -5,7 +5,7 @@
 <!-- ![Schelling Model Check 5 Neighbours](https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%203/Schelling_model_5_out_of_8.gif)
 Schelling Model Check 5 Neighbours -->
 
-<img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%203/Schelling_model_5_out_of_8.gif" width="600" height="480" />
+<img src="https://github.com/Vlad382/skoltech_courses/blob/main/High%20Performance%20Python%20Lab/Homework%203.%20Schelling%20Model/Schelling_model_5_out_of_8.gif" width="480" height="384" />
 
 Schelling Model. An agent checks 5 neighbours
 
