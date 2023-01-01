@@ -31,3 +31,9 @@
 | Soft Condensed Matter |[MA030365](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030365.pdf?v=c6k45w)		|95.54% (A)| [\*click\*](Soft%20Condensed%20Matter/)|
 | Innovation Workshop |[MC060001](http://files.skoltech.ru/data/edu/syllabuses/2022/MC060001.pdf?v=e5b98n)		|*Was a TA*| No materials |
 | Leadership for Innovators |[MC030011](http://files.skoltech.ru/data/edu/syllabuses/2022/MC030011.pdf?v=2ct69u)		|*Pass*| No materials |
+
+### Term 6
+| Course Name| ID | Grade | Link to materials |
+| :----------- | :-----------: | -----------: | :-----------: |
+| High Performance Python Lab |[MA030367](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030367.pdf?v=ga0cly)		|100.00% (A)| [\*click\*](High%20Performance%20Python%20Lab/)|
+| Biomedical Innovation and Entrepreneurship |[MC030013](http://files.skoltech.ru/data/edu/syllabuses/2022/MC030013.pdf?v=8rixmu)		| 98.50% (A)| No materials |
