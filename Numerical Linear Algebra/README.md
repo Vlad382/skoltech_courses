@@ -28,4 +28,4 @@ Model Compression for Uncertainty Estimation using Deep Ensembles
 
 In particular, we show that too intensive compression of model leads to additional uncertainty and does not allow to detect the OOD samples.
 
-**P.S.** We did not have to submit the code. So, there is nothing but presentation left.
+**P.S.** We did not have to submit the code. So, there is nothing left but presentation.
