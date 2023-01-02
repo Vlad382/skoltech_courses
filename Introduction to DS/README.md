@@ -6,7 +6,7 @@
 
 ### Final Project. 49/50 pts
 
-During the project, I worked on the database [**Pump It Up**](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/).
+During the project, I worked on the dataset [**Pump It Up**](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) from a DRIVENDATA competition.
 
 `final_project` is a main notebook. It contains description, data cleaning and data preprocessing. Main models were built (CatBoostClassifier) there.
 **Random Forest** models were built to find out what features can be dropped according to their influence on the final accuracy score (**f1_score**).
