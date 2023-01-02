@@ -18,8 +18,14 @@ Problem 2.2.5 [1/2] (it's not about abs of eigenvalue, but about eigenvalue havi
 
 Model Compression for Uncertainty Estimation using Deep Ensembles
 
-**Occupation**
+*Investigate how compression methods based on tensor decomposition for linear and convolutional layers influence the uncertainty estimation of neural networks in classification task*
 
-Reviewed methods for tensor compression, preapred datasets and presentation.
+**Results**
+
+ - Reproduce the comparison of Deep Ensembles and Monte Carlo Dropout
+ - Show the relation between rank of SVD and TT decompositions and classification performance
+ - Experimentally prove that proper approximation rank still provides an opportunity for estimating the uncertainty in OOD cases
+
+In particular, we show that too intensive compression of model leads to additional uncertainty and does not allow to detect the OOD samples.
 
 **P.S.** We did not have to submit the code. So, there is nothing but presentation left.
