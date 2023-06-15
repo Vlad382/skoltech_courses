@@ -37,3 +37,11 @@
 | :----------- | :-----------: | -----------: | :-----------: |
 | High Performance Python Lab |[MA030367](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030367.pdf?v=ga0cly)		|100.00% (A)| [\*click\*](High%20Performance%20Python%20Lab/)|
 | Biomedical Innovation and Entrepreneurship |[MC030013](http://files.skoltech.ru/data/edu/syllabuses/2022/MC030013.pdf?v=8rixmu)		| 98.50% (A)| No materials |
+
+### Term 7
+Educational program at Sirius Univeristy "Digital Methods in Engineering". Program aimed to study application of AI method in oil and gas industry.
+
+[Final project materials](https://github.com/Vlad382/Digital_Methods_in_Engineering_Sirius_2023).
+
+### Term 8
+Completion of the MSc thesis .
