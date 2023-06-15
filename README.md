@@ -44,4 +44,4 @@ Educational program at Sirius Univeristy "Digital Methods in Engineering". Progr
 [Final project materials](https://github.com/Vlad382/Digital_Methods_in_Engineering_Sirius_2023).
 
 ### Term 8
-Completion of the MSc thesis .
+Completion of the MSc thesis.
